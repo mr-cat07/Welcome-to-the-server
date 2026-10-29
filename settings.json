@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mrcats.play.hosting",
-    "port": 25631,
-    "version": "1.21.11",
+    "ip": "62.141.62.13",
+    "port": 63865,
+    "version": "",
     "try-creative": false
   },
   "position": {
