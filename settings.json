@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "mrcats.play.hosting",
-    "port": 25785,
+    "port": 25631,
     "version": "1.21.11",
     "try-creative": false
   },
