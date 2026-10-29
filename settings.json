@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mrcats.play.hosting",
+    "ip": "mrcat.play.hosting",
     "port": 25631,
     "version": "1.21.11",
     "try-creative": false
